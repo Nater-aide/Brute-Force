@@ -9,6 +9,9 @@ Make sure you have a wordlist available
 Run **python3 bf.py**
 
 Enter
+
 IP Address:
+
 Username:
+
 Location of the wordlist:
